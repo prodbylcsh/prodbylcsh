@@ -8,7 +8,7 @@ I connect back-end logic, databases and front-end into one working product. Most
 
 ## Selected work
 
-**[GrowHub](https://github.com/prodbylcsh/GrowHub)** · [grow-hub.cz](https://grow-hub.cz) (live)
+**[GrowHub](https://github.com/prodbylcsh/GrowHub)** · [grow-hub.cz](https://grow-hub.cz) (live, registrations down due to Supabase limitations)
 Community website with event sign-ups. Events, their registration forms and even their color themes are rows in Supabase, so publishing a new event is a database insert, not a deploy. Sign-ups go through an Edge Function into a single SQL transaction, so an event can't be overbooked, and row-level security keeps drafts private.
 <sub>JavaScript · PostgreSQL · Supabase · Netlify</sub>
 
@@ -16,9 +16,9 @@ Community website with event sign-ups. Events, their registration forms and even
 A React app for writing a CV and exporting it as a print-ready PDF, with three layouts, three typefaces and accent colors. The form logic lives in reusable custom hooks. The tricky part was waiting for web fonts to load before printing, so the PDF never falls back to a default font.
 <sub>React 19 · Vite · CSS print styles</sub>
 
-**[Todo List](https://github.com/prodbylcsh/Todo-List-The-Odin-Project)** · [live demo](https://prodbylcsh.github.io/Todo-List-The-Odin-Project/)
-Started as a The Odin Project assignment; I extended it with a separate notes board, inline editing and a versioned localStorage schema, so a reload brings you back to the exact view you left.
-<sub>Vanilla JS modules · webpack · date-fns</sub>
+**[Wizard Chess 3D](https://github.com/prodbylcsh/Chess-3D)** · [live in Alpha](https://github.com/prodbylcsh/Chess-3D)
+Started as a simple 3D Chess; Now turning into modern Chess platform.
+<sub>JavaScript · TypeScript · Supabase · React · 3D Models</sub>
 
 ## Skills
 
