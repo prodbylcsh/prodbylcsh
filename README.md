@@ -8,7 +8,7 @@ I connect back-end logic, databases and front-end into one working product. Most
 
 ## Selected work
 
-**[Wizard Chess 3D](https://github.com/prodbylcsh/Chess-3D)** · [live in Alpha](https://github.com/prodbylcsh/Chess-3D)
+**[Wizard Chess 3D](https://github.com/prodbylcsh/Chess-3D)** · [live in Alpha](https://prodbylcsh.github.io/Chess-3D/)
 Started as a simple 3D Chess; Now turning into modern Chess platform.
 <sub>JavaScript · TypeScript · Supabase · React · 3D Models</sub>
 
