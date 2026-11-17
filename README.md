@@ -39,8 +39,8 @@ How I work: analytical, detail-oriented, and focused on clean code the next deve
 ## Recently pushed
 
 <!-- RECENT:START -->
+- [etf-landing-page](https://github.com/prodbylcsh/etf-landing-page) · <sub>17 Nov 2026</sub>
 - [beat-store](https://github.com/prodbylcsh/beat-store) · <sub>16 Nov 2026</sub>
-- [etf-landing-page](https://github.com/prodbylcsh/etf-landing-page) · <sub>14 Nov 2026</sub>
 - [Chess-3D](https://github.com/prodbylcsh/Chess-3D) · <sub>02 Nov 2026</sub>
 - [CV-Builder](https://github.com/prodbylcsh/CV-Builder) · <sub>20 Sep 2026</sub>
 <!-- RECENT:END -->
