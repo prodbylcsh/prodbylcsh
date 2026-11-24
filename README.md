@@ -39,9 +39,9 @@ How I work: analytical, detail-oriented, and focused on clean code the next deve
 ## Recently pushed
 
 <!-- RECENT:START -->
+- [etf-landing-page](https://github.com/prodbylcsh/etf-landing-page) · <sub>24 Nov 2026</sub>
 - [flocused-web](https://github.com/prodbylcsh/flocused-web) · <sub>22 Nov 2026</sub>
 - [CV-Builder](https://github.com/prodbylcsh/CV-Builder) · <sub>22 Nov 2026</sub>
-- [etf-landing-page](https://github.com/prodbylcsh/etf-landing-page) · <sub>21 Nov 2026</sub>
 - [Todo-List-The-Odin-Project](https://github.com/prodbylcsh/Todo-List-The-Odin-Project) – Todo List assignment from The Odin Project · <sub>31 Aug 2026</sub>
 <!-- RECENT:END -->
 <sub>Updated daily by a GitHub Action.</sub>
